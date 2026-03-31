@@ -47,3 +47,10 @@ Possui fácil acesso às principais vias da cidade, como:
 ## 📄 Documentação do Projeto
 
 - [Baixar documentação (PDF)](docs/documentacao.pdf)
+
+g
+## 📊 Modelagem BPMN
+
+### Processo Atual (AS-IS)
+
+![BPMN AS-IS](02-modelagem/bpmn-as-is.png)
