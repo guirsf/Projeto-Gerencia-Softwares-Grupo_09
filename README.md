@@ -8,6 +8,8 @@ Projeto de planejamento da implantação de um sistema ERP em uma empresa
 
 ---
 
+![WhatsApp Image](WhatsApp%20Image%202026-05-26%20at%2019.11.22.jpeg)
+
 ## 🏢 Sobre a Empresa
 
 A **Novaprint** é uma empresa do segmento de serviços gráficos e comunicação visual, fundada por três jovens empreendedores com visão inovadora e foco em crescimento no mercado.
