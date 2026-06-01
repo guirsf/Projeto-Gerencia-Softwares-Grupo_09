@@ -1,1 +1,11 @@
-testando.
+| Semana | Atividade                                                      | Responsável               |
+| ------ | -------------------------------------------------------------- | ------------------------- |
+| 1      | Definição do escopo e stakeholders                             | Gerente do Projeto        |
+| 2      | Levantamento dos processos financeiros e mapeamento das falhas | Equipe Financeira         |
+| 3      | Definição dos requisitos e planejamento dos riscos             | Gerente + Consultor TOTVS |
+| 4      | Instalação e configuração do ERP TOTVS                         | TI + Consultor            |
+| 5      | Cadastro de usuários e migração de dados                       | TI + Financeiro           |
+| 6      | Treinamento da equipe                                          | Consultor TOTVS           |
+| 7      | Simulações e testes operacionais                               | Financeiro + TI           |
+| 8      | Correção de falhas e homologação                               | TI + Consultor            |
+| 9      | Monitoramento e avaliação dos resultados                       | Gerente do Projeto        |
